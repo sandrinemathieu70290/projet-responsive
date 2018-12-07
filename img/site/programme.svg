@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="697.347px" height="600px" viewBox="0 0 697.347 600" enable-background="new 0 0 697.347 600" xml:space="preserve">
+<circle cx="276.993" cy="84.497" r="58.579"/>
+<circle fill="#FF00FF" cx="433.776" cy="81.714" r="64.796"/>
+<circle fill="#FF00FF" cx="198.401" cy="173.088" r="45.17"/>
+<circle fill="#00FFFF" cx="235.265" cy="513.225" r="65.306"/>
+<circle fill="#00FFFF" cx="560.49" cy="468" r="54.082"/>
+<circle fill="#FF7BAC" cx="592.49" cy="128" r="54.082"/>
+<circle fill="#FF7BAC" cx="613.714" cy="306.775" r="67.858"/>
+<circle fill="#FFFF00" cx="393.49" cy="531" r="54.082"/>
+<radialGradient id="SVGID_1_" cx="172.4897" cy="385" r="54.082" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.0851" style="stop-color:#FFEDD8"/>
+	<stop  offset="0.2082" style="stop-color:#FFD5A7"/>
+	<stop  offset="0.3345" style="stop-color:#FFC17D"/>
+	<stop  offset="0.462" style="stop-color:#FFB05B"/>
+	<stop  offset="0.591" style="stop-color:#FFA340"/>
+	<stop  offset="0.7222" style="stop-color:#FF9A2D"/>
+	<stop  offset="0.8568" style="stop-color:#FF9522"/>
+	<stop  offset="1" style="stop-color:#FF931E"/>
+</radialGradient>
+<circle fill="url(#SVGID_1_)" cx="172.49" cy="385" r="54.082"/>
+<circle fill="#ED1C24" cx="320.49" cy="205" r="54.082"/>
+<circle fill="#00FF00" cx="437.49" cy="417" r="54.082"/>
+<circle fill="#FCEE21" cx="496.224" cy="200.266" r="42.348"/>
+<rect x="214.428" y="304.158" fill="none" width="358.163" height="52.041"/>
+<text transform="matrix(1 0 0 1 214.4282 325.458)" font-family="'MyriadPro-Regular'" font-size="30">Le programme en cours </text>
+<circle fill="#FFFF00" cx="154.401" cy="271.088" r="45.17"/>
+</svg>
